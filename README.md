@@ -23,5 +23,7 @@ Pero la primera vez que se abre la página, $_SESSION no contiene ningún dato e
 ## Como ejecutar
 
 Para ejevvcutar ponemos los dos archivos en el directorio /var/www/html:
+```
 $ sudo cp *.php /var/www/html/
+```
 Luego vamo desde el navegador a localhost/sesion-1.php
